@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name= JB Live
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=/jblive.svg
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Brian Manderville
+X-KDE-PluginInfo-Email=brian@descentos.org
+X-KDE-PluginInfo-Name=JB Live Stream
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.descentos.org/
+X-KDE-PluginInfo-Category=Video
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
